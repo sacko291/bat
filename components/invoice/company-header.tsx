@@ -8,7 +8,7 @@ export const CompanyHeader = () => {
       </div>
       <div>
       <div>
-        <h1 className="text-2xl">FACTURE</h1>
+        <h1 className="text-2xl"></h1>
       </div>
       </div>
       <div className=" min-w-52 p-2 border-2 border-black h-full rounded-sm">
