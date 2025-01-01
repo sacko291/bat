@@ -4,7 +4,7 @@ export const CardProjet = () => {
   return (
     <div className="flex flex-col w-1/5 h-72 bg-white border-cyan-600 mb-5 border-2 rounded-md cursor-pointer hover:scale-110">
       <div className="h-1/2">
-        <a href="/"><img src="/Projet_image5.png" alt="" className="w-full h-full rounded-t-sm" /></a>
+        <a href="/"><img src="./Projet_image5.png" alt="" className="w-full h-full rounded-t-sm" /></a>
       </div>
       <div className="h-1/2 flex flex-col gap-5 px-2">
         <div className="w-full text-center">
